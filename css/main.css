@@ -1,0 +1,67 @@
+.backgray{
+  background-image: url("../img/fondo2.jpg");
+}
+
+
+.fondo{
+  background-image: url("../img/fondo.jpg"); 
+  background-size: cover;
+}
+
+
+.banner{
+  background-image: url("../img/semilla.jpg");
+  height: 369px;
+  background-position: center;
+  background-size: 113%;
+}
+
+
+footer{
+	padding: 2% 5%;
+   font-size: 0.8em;
+  color: rgb(83, 88, 95);
+  font-weight: bold;
+}
+
+.box{
+	display: inline-block;
+  border: 1px solid #C2C2C2;
+  width: 24%;
+  height: 202px;
+  padding-left: 2%;
+  padding-top: 1%;
+  margin-left: -6px;
+  color: #C2C2C2;
+}
+
+.icon-social{
+	width: 13%;
+  height: 33px;
+  position: relative;
+  top: 114px;
+  left: 180px;
+}
+
+.text-in{
+  height: 400px;
+}
+
+.method{
+  height: 400px;
+}
+
+.border{
+  border-radius: 50%;
+}
+
+.slide{
+    width: 300px;
+    height: 200px;
+    margin-top: 80px;
+
+}
+
+.next{
+  margin-top: 200px;
+}

@@ -1,0 +1,166 @@
+/*Global*/
+*{
+	font-family: "OpenSans-Light" Helvetica;
+}
+
+@font-face{
+	font-family: OpenSans-Regular;
+	src: url(../fonts/Open/OpenSans-Regular.ttf);
+}
+@font-face{
+	font-family: OpenSans-Light;
+	src: url(../fonts/Open/OpenSans-Light.ttf);
+}
+@font-face{
+	font-family: OpenSans-Bold;
+	src: url(../fonts/Open/OpenSans-Bold.ttf);
+}
+
+/* Shortcuts */
+h1{
+	font-size: 1.2em;
+}
+
+h2{
+	font-size: 1em;
+}
+
+h4{
+	font-size: 0.8em;
+	padding-top: 3%; 
+}
+.fs-1{
+	font-size: 1em;
+}
+
+.fs-09{
+	font-size: 0.9em;
+}
+
+.fs-14{
+	font-size: 1.2em;
+}
+
+.pd-5-18{
+	padding: 5% 18%;
+}
+
+.pd-0 {
+	padding: 0;
+}
+
+.pd-0-15{
+	padding: 0% 15%;
+}
+.pd-10{
+	padding: 10%;
+}
+
+.pd-3{
+	padding: 3%;
+}
+
+.pt-5 {
+	padding-top: 5%;
+}
+.pt-10 {
+	padding-top: 10%;
+}
+.pb-5{
+	padding-bottom: 5%;
+}
+.pd-5 {
+	padding: 5%;
+}
+.pd-5-10{
+	padding: 5% 10%;
+}
+.mg-0{
+	margin: 0;
+}
+.w-100{
+	width: 100%;
+}
+
+.w-130{
+	width: 130%;
+}
+
+.w-30{
+	width: 30%;
+}
+
+.w-20{
+	width: 20%;
+}
+
+.w-40{
+	width: 40%;
+}
+
+.w-8{
+	width: 8%;
+}
+.w-50{
+	width: 50%;
+}
+.lh{
+	line-height: 1.5;
+}
+.text-bold{
+	font-weight: bold;
+}
+.text-center{
+	text-align: center;
+}
+.text-left{
+	text-align: left;
+}
+.text-right{
+	text-align: right;
+}
+.text-white{
+	color: white;
+}
+.text-gray{
+	color: rgb(83, 88, 95);
+}
+.text-blue{
+ color: #192951;
+}
+.a-none-decoration{
+	text-decoration: none;
+}
+.bg-gray{
+	background-color: #F2F2F2;
+
+}
+.bg-green{
+	background-color: #5E8039;
+}
+.bg-black{
+	background-color: #4D4D4D;
+    padding-top: 4%;
+    padding-bottom: 4%;
+    padding-left: 7%;
+}
+.text-gray{
+	color:#F2F2F2;
+}
+.text-black{
+	color: #4D4D4D;
+}
+.text-green{
+	color: #5E8039;
+}
+.text-white{
+	color:#fff;
+}
+.text-yellow{
+	color: #fac60e;
+}
+.bg-img-block{
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
